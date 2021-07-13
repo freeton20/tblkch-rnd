@@ -53,7 +53,7 @@ module.exports = {
         ],
         minimize: true
     },
-    target: "webworker", // or 'node' or 'node-webkit'
+    target: "web",
     externals: {
         fs: "commonjs fs",
         path: "commonjs path"
