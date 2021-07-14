@@ -99,6 +99,6 @@ button {
     }
 }
 
-#fees, #timer{
+#fees, #timer, #balance, #betValue{
     margin-top: 1rem;
 }
